@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "proba3",
+      "description": "proba",
+      "id": 9
+    },
+    {
+      "title": "proba4",
+      "description": "proba",
+      "id": 10
+    },
+    {
+      "title": "test1",
+      "description": "test1",
+      "userId": "118217125070549464861",
+      "id": 11
+    },
+    {
+      "title": "test2",
+      "description": "test2",
+      "userId": "118217125070549464861",
+      "id": 12
+    }
+  ]
+}
